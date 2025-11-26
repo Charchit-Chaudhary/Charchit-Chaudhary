@@ -12,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWgzZjI1ZWYzOWdxbHN1YXN6eGFvZjZqOWliZGZ4eWJoanFxYjlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-
-###
-
 <p align="left">✨ Passionate about building fast, responsive, user-friendly interfaces<br>💻 Tech Stack: HTML • CSS • JavaScript • Tailwind • React.<br>📚 Currently learning: JavaScript, modern React, API integration, and advanced UI/UX patterns.<br>🎯 Goals: Build production-ready front-end projects and level up into a full-stack engineer.<br>🎲 Fun fact: I break things on purpose—because fixing them is how I learn faster than everyone else.</p>
 
 ###
