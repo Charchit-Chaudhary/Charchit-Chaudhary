@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">My name is Charchit Chaudhary, and I'm a frontend developer from Nepal.</h4>
+<h3 align="center">My name is Charchit Chaudhary, and I'm a frontend developer from Nepal.</h3>
 
 ###
 
